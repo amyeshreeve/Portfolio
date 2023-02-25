@@ -1,4 +1,4 @@
-I"ù<p>This project is digital humanities project that uses webscraping, NLP, named entity recognition, and geosptial tools to visualize changes in the Latter-Day Saint identity between 1835 and the present.</p>
+I"Ÿ<p>This project is digital humanities project that uses webscraping, NLP, named entity recognition, and geosptial tools to visualize changes in the Latter-Day Saint identity between 1835 and the present.</p>
 
 <!--more-->
 
@@ -26,8 +26,8 @@ these were all real places. Lastly, I geocoded (turned place names into coordina
 
 <h2 id="results">Results</h2>
 
-<p>Here is the interactive map for 1835.<br />
-Here is the interactive map for 1985.</p>
+<p>Here is the interactive map for <a href="/1835-maps.html">1835</a>.<br />
+Here is the interactive map for <a href="/1985-maps.html">1985</a>.</p>
 
 <h2 id="discussion">Discussion</h2>
 
