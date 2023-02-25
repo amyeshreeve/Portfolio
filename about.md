@@ -1,15 +1,10 @@
 ---
-layout: page
 title: About
-permalink: /about/
+layout: page
 ---
 
-Some information about you!
+Amy Shreeve is a Rhetoric & Writing/History double major pursuing certificates in Museum Studies and Computer Science at the University of Texas at Austin. Her expected graduation date is the Spring of 2023. This portfolio presents several of Amy’s projects created inside and outside of the classroom.
 
-### More Information
+These projects are centered around commemorative georgraphies, Yiddish culture in the United States, and literature. Amy is currently researching the geography of Austin with Dr. Edmund Gordon at the University of Texas and working as a technical writing/marketing intern at Pivot Enginers. She is also the president of Texas Digital Humanities.
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+Outside of an academic context, Amy is very interested in classic literature, modern poetry, and Yiddish. Amy owns every National Geographic published between 2000-2013 and many non-consecutive issues since.
