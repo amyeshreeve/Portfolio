@@ -16,7 +16,7 @@ Of the 1,016 organizations that are in the dataset, the year of organization is 
 The mode is in 1892. This is the year when the most organizations were established. The median year of establishment is 1896. 
 Organizations that affiliated themselves with a particular location had the same distribution and median as those that did not have an affiliation.
 
-{% maincolumn 'assets/img/distribution.png' 'Figure 1' %}  
+![]({{ site.baseurl }}/images/distribution.png "Figure 1")
 
 This is, of course, the data trimmed for outliers. Well, *outlier.* Congregation Shearith Israel was established in 1654 by Dutch Sephardim.
 
@@ -27,23 +27,21 @@ Organizations established in late 1908 may not have made the cut.)
 The literature on Jewish immigration to New York generally describes it as occurring in three waves, each larger than the last. 
 The first was a small wave of Dutch Sephardic immigrants (like those that established Congregation Shearith Israel).
 The next, occurring in the mid-nineteenth century was a wave of German Ashkenazi immigrants. 
-In “New York Jews and the Quest for Community,” published in 1922, Arthur Goren claims that in “the eleven years which preceded the outbreak of World War I, over 10,000 Jews arrived annually from Eastern Europe.”  {% sidenote 'one' 'Arthur A. Goren, New York Jews and the Quest for Community: the Kehillah Experiment, 1908-1922 (New York: Columbia University Press, 1970), 20.' %}
-Russian Jews moved to New York in large numbers and comrpised a large part of the Lower East Side's population. (You'll not that the map in Figure 3 shows few people identified with places in modern Russia.
+In “New York Jews and the Quest for Community,” published in 1922, Arthur Goren claims that in “the eleven years which preceded the outbreak of World War I, over 10,000 Jews arrived annually from Eastern Europe.” Russian Jews moved to New York in large numbers and comrpised a large part of the Lower East Side's population. (You'll not that the map in Figure 3 shows few people identified with places in modern Russia.
 However, many Eastern Europeans from the time are referred to as "Russian" because the Russian Empire did not fall until 1917. As explained in the first article, I noted the current nation where towns are located.)  
 
 ## Locations of Origin
 
-{% maincolumn 'assets/img/table.png' 'Figure 2' %}  
+![]({{ site.baseurl }}/images/table.png "Figure 2")
 
 This table presents the nations that that organizations identified with. It also presents the number of organizations with a known year of founding and that identified as Orthodox.  
 The nations are ordered from most to least frequent. Poland, Ukraine, and Belarus are the three most commonly identified nations. The national identification proportions are shown in figure 3.
 
-
-{% maincolumn 'assets/img/pie.png' 'Figure 3' %} 
+![]({{ site.baseurl }}/images/pie.png "Figure 3")
 
 The actual towns are mapped in Figure 4. All of the organizations with an identification identified somewhere in Europe.
 
-{% maincolumn 'assets/img/euromap.png' 'Figure 4' %} 
+![]({{ site.baseurl }}/images/euromap.png "Figure 4")
 
 This map makes it evident that most organizations originated in Eastern Europe, and this makes sense given the number of 20th-century immigrants. 
 However, an absence here is more striking than a presence.   
@@ -75,20 +73,21 @@ These are only for the organizations for which the year is known, but there is n
 
 Figure 5 shows the locations of all of the synagogues established before 1850. At this point, the organizations seem to be fairly dispersed around Manhattan. However, there are already two groupings in the Upper and Lower East Sides.
 
-{% maincolumn 'assets/img/1850.png' 'Figure 5' %}  
+![]({{ site.baseurl }}/images/1850.png "Figure 5")
 
 Figure 6 is a snapshot of all organizations established by 1885, including those established before 1850. At this point in time, the largest cluster is in the Lower East side. One organization has been established across the Williamsburg bridge, and there are a few in Harlem.
 
-{% maincolumn 'assets/img/1885.png' 'Figure 6' %}  
+![]({{ site.baseurl }}/images/1885.png "Figure 6")
 
 By 1900, there are so many Jewish organizations in the Lower East side that they become difficult to distinguish on a small map (Figure 7). Now, there are organizations as far north as Washington Heights. It is not totally clear whether the geographic scope of the records or of the actual organizations increased.
 
-{% maincolumn 'assets/img/1900.png' 'Figure 7' %}  
+![]({{ site.baseurl }}/images/1900.png "Figure 7")
 
 In the next decade, the Heights, Harlem, and Upper East Side neighborhoods quickly grew. Growth in the Upper East Side could be attributed to the economic success of many Jewish Americans. Conversely, growth in the Heights & Harlem might be attributed to the relocation of factories and industry to this less expensive area.
 The Lower East Side was also a huge industry hub (especially for textiles). Jewish immigrants were not alone in the Lower East Side. Many immigrants of different ethnic and religious backgrounds lived in this area.
 
-{% maincolumn 'assets/img/all.png' 'Figure 8' %}  
+![]({{ site.baseurl }}/images/all.png "Figure 8")
+
 Figure 8 is the map of every synagogue established up until about 1939. The Upper and Lower East sides have the largest clusters. The east side of Manhattan has the majority of all organizations from this time.
 Note that when organizations were located outside of the east side, they tended to crop up in pairs. This could be because they shared resources. Running a formal synagogue was very expensive because of all the necessary matierals (sefer torah, siddurim, etc.). Therefore, congregations could have shared these items. This sharing presents the second reason for closeness: orthodoxy. Orthodox Jews may not carry things between different domains or use electricity on Shabbos (the sabbath), so congregants must live close to one another and their place of worship. 
 A higher concentration of Orthodox Jews among these smaller communities would explain these split-off neighborhoods. It could be that organizations only rented in less expensive areas, so the price was a draw for both groups.  
@@ -96,30 +95,31 @@ A higher concentration of Orthodox Jews among these smaller communities would ex
 I hypothesized that these pairings could be based upon country of origin. While some countries dominate the proportions (Figure 3), maybe Jews from countries that did not have existing social support in the United States established their synagogues and organizations away from the main Jewish structure.
 Polish, Ukranian, and Belarussian Jews had large support systems because they had many peers that spoke the same language or dialect. Other, smaller groups may not have had this social infrastructure. Polish immigrants would have moved close to the Polish support center (Figure 9). But, say, Greek immigrants wouldn't have gotten the same support in those Polish areas. Therefore, it made no difference to them where they lived.
 
-{% maincolumn 'assets/img/polish.png' 'Figure 9' %}  
-{% maincolumn 'assets/img/greek.png' 'Figure 10' %}  
+![]({{ site.baseurl }}/images/polish.png "Figure 9")
+![]({{ site.baseurl }}/images/greek.png "Figure 10")
 This generalization isn't necessarily supported by Figure 10. Greek-Jewish immigrants did live close together, but not necessarily far from everyone else.  
 There are other problems with these generalizations. First, the language barrier was not as insurmountable as you might think. Many Eastern European/Russian Jewish immigrants spoke Yiddish. Though there were (and still are today) dialect rivalries, many Jewish immigrants could speak to one another. Compared to Americans and other immigrants, Jewish immigrants had much more in common with one another. (There are several exceptions to this rule, namely that many Sephardim did not speak Yiddish but Ladino or another language common in their place of origin.)  
 The second problem with this belief is that many of these nations did not exist. The Russian empire was still strong, and modern borders had not been settled. It is therefore unlikely that these immigrants had some kind of cohesive national identity. This is an anarchronistic interpretation. Lastly, even if these nations did exist in their modern forms, it is unlikely that ostracized Jewish immigrants would align with them in any capacity.  
 So, there was no nationalism. Then how did people group?  
 The answer might be in their localities.
 
-{% maincolumn 'assets/img/minsk.png' 'Figure 11' %}  
+![]({{ site.baseurl }}/images/minsk.png "Figure 11")
 
 Look at the locations of these Minsk-identified organizations. They are (save an Upper East Side outlier) close together. We see this again with Przemysl, Poland (Figure 12) and Rymanow, Poland (Figure 13).
 
-{% maincolumn 'assets/img/przemysl.png' 'Figure 12' %} 
-{% maincolumn 'assets/img/rymanow.png' 'Figure 13' %} 
+![]({{ site.baseurl }}/images/przemysl.png "Figure 12")
+![]({{ site.baseurl }}/images/rymanow.png "Figure 13")
+
 These are the only towns with enough organizations (4+) to look at their grouping patterns. But we can see that people that identified with one city or town remained close together. This seems very natural. Immigrating to a new country is difficult, so familiar accents, practices, and faces can be a great comfort.  
 But in this local-identification, we find the answer to our earlier question.  
 
 ## Why didn't German Jews identify with Germany? 
 We've already established that there was no modern Germany and that German Jews didn't even identify with their towns. We have also discussed the Reform movement's value of assimilation.  
 But the Reform movement is much more than this. Unlike Orthodoxy, the Reform movement's observance does not limit the carrying of objects of Shabbos. Observers can also use electricity and transportation on holy days. This decreases the need for tightly packed Jewish communities.
-Just before the war, nearly 60% of German Jews lived in "urban areas with more than 100,000 inhabitants." {% sidenote 'two' 'See [United States Holocaust Memorial Museum, "German Jewish Life."](https://encyclopedia.ushmm.org/content/en/article/jewish-communities-of-prewar-germany)' %}  
+Just before the war, nearly 60% of German Jews lived in "urban areas with more than 100,000 inhabitants."  
 
 Unlike Russian Jews, many Germans lived in cities. By the mid-nineteenth century (when most German Jewish immigrants came to the United States), "cultural isolation was almost completely gone." Liberalizing forces granted German Jews social and geographic mobility. These forces, however, were exclusive to Western Europe.
-{% sidenote 'three' 'Jacob Katz,  Out of the Ghetto : The Social Background of Jewish Emancipation (Syracuse, N.Y.: Syracuse University Press), 214.' %} Meanwhile, many Polish and Russian Jews lived in small towns. If they lived in cities, they likely lived in a Jewish quarter or neighborhood.  
+Meanwhile, many Polish and Russian Jews lived in small towns. If they lived in cities, they likely lived in a Jewish quarter or neighborhood.  
 What does this mean for New York neighborhoods? It means that German Jews didn't establish German Jewish communities because there were not as many communities to translate. There were, of course, synagogues. However, religion was just religion. There was no drive to live near fellow congregants because they did not necessarily provide the comforts of home.
 It appears that the more assimilated you are, the **less** you care about the nation.
 

@@ -24,21 +24,21 @@ Next, I used the Snapchat Lens studio program. This program allowed me to create
 Each Snapchat filter is accessible through an individualized QR code. In the future, I plan on printing these out on stickers and sticking the QR codes at the locations where the pictures were originally taken. The filter
 would allow people to see how the location they are standing in used to look.  
   
-{% maincolumn 'assets/img/Snapcodes.jpg' 'Collection of all produced QR codes' %}  
+![]({{ site.baseurl }}/images/Snapcodes.jpg "Snapchat QR Codes")
 
 ## Example
 
 Let's take a look at one specific filter. The original picture for this is of the Anderson HS Class of 1889, as seen below:  
-  
-{% maincolumn 'assets/img/anderson.jpg' 'Anderson Class of 1889' %}  
+
+![]({{ site.baseurl }}/images/1anderson.jpg "Anderson Class of 1889")
 
 Then, I used Lens Studio to 1) create the filter and 2) produce the QR code.  
   
-{% maincolumn 'assets/img/anderson_code.png' 'Anderson HS Snapchat Filter' %}
+![]({{ site.baseurl }}/images/anderson_code.png "Anderson HS QR Code")
 
 To use this filter, one would open the Snapchat app and scan the QR code. This would then open up the image, and it would look a bit like the following.  
   
-{% maincolumn 'assets/img/snapcode_use.png' 'Example of a phone screen when the QR code is open' %}
+![]({{ site.baseurl }}/images/snapcode_use.png "Snapchat Code Demonstration")
 
 The background on this "phone" shows how the location where the picture was taken looks now. In the future, I want to paste this QR code here (near what is now Kealing Middle school). Curious passersby will see the location, then and now.  
 

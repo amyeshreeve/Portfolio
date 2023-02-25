@@ -31,14 +31,14 @@ This project presented particular issues with the differences between fiction an
 
 Here is the fiction map:
 
-{% maincolumn 'assets/img/LatinAmericaBookMap.png' 'Fiction map' %}  
+![]({{ site.baseurl }}/images/LatinAmericanBookMap.png "Map of Latin America through fictional books.")
 
 This map has significant blank spots in central America; no nation between Mexico and Colombia is represented.
 This map is also blank in the Guiana shield and in several South American countries.  
 
 Here is the non-fiction map:
 
-{% maincolumn 'assets/img/NonFiction.png' 'Non-fiction map' %}  
+![]({{ site.baseurl }}/images/NonFiction.png "Map of Latin America through nonfiction books.")
 
 This map also has some blank spots in central America. Unlike the other map, this map has absences in Argentina
 and Chile.  

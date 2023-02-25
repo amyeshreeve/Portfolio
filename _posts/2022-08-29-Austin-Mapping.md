@@ -29,12 +29,11 @@ methodology. Together, we completed a map of the city of Austin for the year 192
 to present our findings to the Austin City Council, but scheduling issues forced us to simply submit documents
 instead. Just last week (August 2022), we completed a demographic map of Austin for the year 1930.
 
-{% maincolumn 'assets/img/1920Map.png' '1920 Demographic Map' %} 
+![]({{ site.baseurl }}/images/1920Map.png "1920 Map")
+![]({{ site.baseurl }}/images/1930Map.png "1930 Map")
 
-{% maincolumn 'assets/img/1930Map.png' '1930 Demographic Map' %}   
-
-Here are the interactive, online versions of these maps: [1920] ("https://www.arcgis.com/apps/mapviewer/index.html?webmap=3c91e15ad5b34c528a1896519f02383c") 
-[1930] ("https://www.arcgis.com/apps/mapviewer/index.html?webmap=1b0852d72b704cc3bba99716159952ca")
+Here are the interactive, online versions of these maps: [1920]("https://www.arcgis.com/apps/mapviewer/index.html?webmap=3c91e15ad5b34c528a1896519f02383c") 
+[1930]("https://www.arcgis.com/apps/mapviewer/index.html?webmap=1b0852d72b704cc3bba99716159952ca").
 
 ## Methodology
 
