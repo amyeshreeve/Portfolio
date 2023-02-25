@@ -1,6 +1,7 @@
 ---
-title: About
+title: Portfolio
 layout: page
+permalink: /portfolio
 ---
 
 Amy Shreeve is a Rhetoric & Writing/History double major pursuing certificates in Museum Studies and Computer Science at the University of Texas at Austin. Her expected graduation date is the Spring of 2023. This portfolio presents several of Amy’s projects created inside and outside of the classroom.
